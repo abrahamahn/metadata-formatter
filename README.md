@@ -50,6 +50,8 @@ Before running our code, you'll need to have Node.js and npm installed on your c
 - Install csvjson npm package by running the command mentioned above.
 - Convert the CSV file into JSON using csvjson by running the following command
 
+![screenshot](https://user-images.githubusercontent.com/48481888/227490357-47155d07-2267-4380-9988-9c52db3eba73.jpg)
+
 ## Example Input
 
 ```
